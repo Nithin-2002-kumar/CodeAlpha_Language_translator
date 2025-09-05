@@ -39,7 +39,7 @@ Replace "YOUR_API_KEY_HERE" with the key you generated. For example:
 # Run the Application:
 Navigate to the project directory in your terminal and execute the script:
 
-```python translator_app.py```
+```language_translator.py```
 
 ## Usage
 * Enter Text: Type or paste the text you wish to translate into the upper text box.
